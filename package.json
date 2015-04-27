@@ -1,0 +1,29 @@
+{
+  "name": "express-mongoose-starter",
+  "version": "1.0.0",
+  "description": "A very bare-bones starter app, using only Express and Mongoose.",
+  "dependencies": {
+    "express": "~3.3.5",
+    "mongoose": "~3.6.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aduth/express-mongoose-starter"
+  },
+  "keywords": [
+    "express",
+    "mongoose",
+    "starter"
+  ],
+  "author": {
+    "name": "Andrew Duthie",
+    "email": "andrew@andrewduthie.com",
+    "url": "http://www.andrewduthie.com/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^1.1.0",
+    "mongoose-crate": "^1.0.10",
+    "mongoose-crate-s3": "^1.1.1"
+  }
+}
